@@ -1,0 +1,4 @@
+name,role,active,email,notes
+Ada Lovelace,mathematician,true,,
+Grace Hopper,computer scientist,,grace@example.com,
+Katherine Johnson,,,,"orbit, landing, return"
